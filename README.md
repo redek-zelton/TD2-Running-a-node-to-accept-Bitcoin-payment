@@ -243,11 +243,11 @@ define('DB_HOST', 'localhost'(127.0.0.1:8080));
 
 
 ## Documentation
-[SSH UFW Bitcoind LND(installation)](https://stadicus.github.io/RaspiBolt)
-[BTCPayServer Light Deployement](https://freedomnode.com/blog/how-to-setup-btc-and-lightning-payment-gateway-with-btcpayserver-on-linux-manual-install/)
-[BTCPayServer Full Deployement](https://docs.btcpayserver.org/ManualDeploymentExtended/)
-[Install WordPress](https://ubuntu.com/tutorials/install-and-configure-wordpress#1-overview)
-[Link WordPress and PostegreSQL](https://medium.com/@shoaibhassan_/install-wordpress-with-postgresql-using-apache-in-5-min-a26078d496fb)
+* [SSH UFW Bitcoind LND(installation)](https://stadicus.github.io/RaspiBolt)
+* [BTCPayServer Light Deployement](https://freedomnode.com/blog/how-to-setup-btc-and-lightning-payment-gateway-with-btcpayserver-on-linux-manual-install/)
+* [BTCPayServer Full Deployement](https://docs.btcpayserver.org/ManualDeploymentExtended/)
+* [Install WordPress](https://ubuntu.com/tutorials/install-and-configure-wordpress#1-overview)
+* [Link WordPress and PostegreSQL](https://medium.com/@shoaibhassan_/install-wordpress-with-postgresql-using-apache-in-5-min-a26078d496fb)
 
 
 
