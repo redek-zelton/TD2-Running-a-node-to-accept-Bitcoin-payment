@@ -247,7 +247,7 @@ Create account
 [Testnet_BTCPay](https://testnet.demo.btcpayserver.org/)
 my wallet address cannot match with the pattern, you can create another by this: [Get_Bitcoin_Wallet](https://iancoleman.io/bip39/)
 
-my new wallet address after => [tb1q6654eak053mz2tl4ms6mlj8vw8zf2jxldx96hy](	https://live.blockcypher.com/btc-testnet/address/tb1q6654eak053mz2tl4ms6mlj8vw8zf2jxldx96hy/)
+my new wallet address after => [tb1q6654eak053mz2tl4ms6mlj8vw8zf2jxldx96hy](https://live.blockcypher.com/btc-testnet/address/tb1q6654eak053mz2tl4ms6mlj8vw8zf2jxldx96hy/)
 
 On a bien installé WordPress pour le Front, mais [Vue.js](https://vuejs.org/) reste la meilleure option !!!
 #### Installation
