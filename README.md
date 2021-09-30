@@ -5,6 +5,8 @@
 ## Install Dependencies
 Pour utiliser le BTCPayServer il faut install .NET Core SDK, NBXplorer, et une database
 
+
+
 ### .NET Core SDK (installation)
 ```bash
 $wget -q https://packages.microsoft.com/config/ubuntu/18.04/packages-microsoft-prod.deb
@@ -37,6 +39,8 @@ $cd NBXplorer
 $git checkout latest
 $./build.sh
 ```
+
+
 
 
 ## Adapt UFW Config
@@ -242,12 +246,16 @@ define('DB_HOST', 'localhost'(127.0.0.1:8080));
 
 
 L'ensemble du chemin de création de l'API se trouve dans le PDF (TD2)
+
 Pour accéder au service BTCPayserveur, il faut se créer un compte:
-Create account
-[Testnet_BTCPay](https://testnet.demo.btcpayserver.org/)
-my wallet address cannot match with the pattern, you can create another by this: [Get_Bitcoin_Wallet](https://iancoleman.io/bip39/)
+
+Create account: [Testnet_BTCPay](https://testnet.demo.btcpayserver.org/)
+
+My wallet address cannot match with the pattern, you can create another by this: [Get_Bitcoin_Wallet](https://iancoleman.io/bip39/)
 
 my new wallet address after => [tb1q6654eak053mz2tl4ms6mlj8vw8zf2jxldx96hy](https://live.blockcypher.com/btc-testnet/address/tb1q6654eak053mz2tl4ms6mlj8vw8zf2jxldx96hy/)
+
+
 
 On a bien installé WordPress pour le Front, mais [Vue.js](https://vuejs.org/) reste la meilleure option !!!
 #### Installation
