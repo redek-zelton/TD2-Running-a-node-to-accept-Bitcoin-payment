@@ -19,6 +19,7 @@ $sudo apt-get install -y dotnet-sdk-3.1
 ```bash
 $dotnet --info
 ```
+![SDK CHECK](https://github.com/redek-zelton/TD2-Running-a-node-to-accept-Bitcoin-payment/blob/main/images/SDK.JPG)
 
 ### PostgreSQL (installation)
 ```bash
@@ -30,6 +31,7 @@ $psql --version
 $sudo systemctl status postgresql
 $sudo -u postgres psql
 ```
+![PostgreSQL CHECK](https://github.com/redek-zelton/TD2-Running-a-node-to-accept-Bitcoin-payment/blob/main/images/PostgreSQL.JPG)
 
 ### NBXplorer (installation)
 ```bash
@@ -39,7 +41,7 @@ $cd NBXplorer
 $git checkout latest
 $./build.sh
 ```
-
+![NBXplorer CHECK](https://github.com/redek-zelton/TD2-Running-a-node-to-accept-Bitcoin-payment/blob/main/images/NBXplorer.JPG)
 
 
 
@@ -61,6 +63,7 @@ $ufw status
 #Quitter
 $exit
 ```
+![UFW allow](https://github.com/redek-zelton/TD2-Running-a-node-to-accept-Bitcoin-payment/blob/main/images/UFW.JPG)
 
 
 ## Adapt SSH Config
@@ -176,6 +179,7 @@ password: #pssw
 $createdb -O administrateur1 btcpayserver
 $exit
 ```
+![DBSQL](https://github.com/redek-zelton/TD2-Running-a-node-to-accept-Bitcoin-payment/blob/main/images/DB.JPG)
 
 il faut aussi configurer les services: nbxplorer.service / btcpayserver.service
 (ils sont sur le pdf (TD2))
@@ -258,6 +262,9 @@ my new wallet address after => [tb1q6654eak053mz2tl4ms6mlj8vw8zf2jxldx96hy](http
 
 
 On a bien installé WordPress pour le Front, mais [Vue.js](https://vuejs.org/) reste la meilleure option !!!
+![BTCPayServeur Testnet Store](https://github.com/redek-zelton/TD2-Running-a-node-to-accept-Bitcoin-payment/blob/main/images/Store.JPG)
+
+![Front](https://github.com/redek-zelton/TD2-Running-a-node-to-accept-Bitcoin-payment/blob/main/images/Front.JPG)
 #### Installation
 * prendre le dossier
 * cd client
@@ -320,6 +327,7 @@ On a bien installé WordPress pour le Front, mais [Vue.js](https://vuejs.org/) r
   font-size: 30px;
 }
 ```
+![Payment](https://github.com/redek-zelton/TD2-Running-a-node-to-accept-Bitcoin-payment/blob/main/images/Payment.JPG)
 
 
 
