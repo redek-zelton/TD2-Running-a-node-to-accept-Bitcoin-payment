@@ -337,6 +337,9 @@ On a bien installé WordPress pour le Front, mais [Vue.js](https://vuejs.org/) r
 
 
 
+## Conclusion TD
+On avait réussit à avoir un serveur local de BTCPayServer avec Bitcoind. Mais en essayant de la faire avec LND (Télécharger et supprimer au moins 8 fois avec des directions différent), il a créé des anomalies dans tout la VM (Bincoind ne fonctionne pas, modification des fichiers, problème de port RPC ...). Donc on est passé par le serveur direct de BTCPayServeur. Il n'y a pas de différence pour Bitcoind. Mais avec le LND, il faut avoir l'empreinte digitale + type + server ,et l'installation du RTL. 
+
 ## Documentation
 * [SSH UFW Bitcoind LND(installation)](https://stadicus.github.io/RaspiBolt)
 * [BTCPayServer Light Deployement](https://freedomnode.com/blog/how-to-setup-btc-and-lightning-payment-gateway-with-btcpayserver-on-linux-manual-install/)
