@@ -4,7 +4,8 @@
 Le Readme comprend une partie du PDF (TD2). 
 Ce TD montre l'utilisation d'un service de paiement gratuit (BTCPayServeur). Le but est de pouvoir créer des moyens
 de paiements en Wallet Bitcoin et aussi via Lightning. Un Disigne Front sera présente pour l'intéraction User et Server.
-<a href="https://github.com/redek-zelton/TD2-Running-a-node-to-accept-Bitcoin-payment/blob/main/TD2.pdf" target="_blank" >TD2</a>
+
+<a target="_blank" href="https://github.com/redek-zelton/TD2-Running-a-node-to-accept-Bitcoin-payment/blob/main/TD2.pdf">Link to TD2 PDF</a>
 
 
 ## Install Dependencies
